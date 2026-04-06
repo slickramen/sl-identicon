@@ -5,7 +5,7 @@
 ![Sample Icon](output/3sample.png)
 ![Sample Icon](output/4sample.png)
 
-Byte-sized identicon generation in Python. Inspired by [GitHub's Identicons](https://github.blog/news-insights/company-news/identicons/) that are used for default profile images.
+Byte-sized identicon generation in Python. Inspired by [GitHub's Identicons](https://github.blog/news-insights/company-news/identicons/), which are used for default profile images.
 
 ## How to setup
 
