@@ -1,0 +1,5 @@
+output/*
+!output/1sample.png
+!output/2sample.png
+!output/3sample.png
+!output/4sample.png
